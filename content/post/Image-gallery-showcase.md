@@ -3,6 +3,7 @@ title: "Image gallery showcase"
 date: 2013-02-18
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/city-140.jpg
+draft: true
 gallery:
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg "Mercedes"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg "Lamborghini"
